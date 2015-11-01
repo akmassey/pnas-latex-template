@@ -1,0 +1,12 @@
+{
+	"name": "Aaron K. Massey",
+	"email": "akmassey@umbc.edu",
+	"github_username": "akmassey",
+	"project_name": "PNAS LaTeX Template",
+  "title": "{{ cookiecutter.project_name }}",
+	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+	"project_short_description": "A LaTeX Template designed for publications submitted to PNAS.",
+	"release_date": "2013-10-04",
+	"year": "2015",
+	"version": "2.0.0"
+}
